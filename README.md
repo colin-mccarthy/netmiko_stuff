@@ -10,7 +10,7 @@ source netmiko/bin/activate
 pip install netmiko
 
 
-
+```
 Package      Version
 ------------ -------
 asn1crypto   0.24.0 
@@ -28,13 +28,14 @@ scp          0.13.2
 setuptools   40.8.0 
 six          1.12.0 
 textfsm      1.1.0 
-
+```
 
 
 
 currently supported device_types
 --------------------------------
 
+```
 a10
 accedian
 alcatel_aos
@@ -114,7 +115,7 @@ ubiquiti_edge
 ubiquiti_edgeswitch
 vyatta_vyos
 vyos
-
+```
 
 
 
