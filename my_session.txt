@@ -1,0 +1,6 @@
+
+coolkids#
+coolkids#terminal length 0
+coolkids#terminal width 511
+coolkids#
+coolkids#
