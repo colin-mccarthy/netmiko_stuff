@@ -1,5 +1,7 @@
-# netmiko_stuff
-# Python 3.7.3
+
+
+---
+![Netmiko Stuff][1]
 
 
 
@@ -128,3 +130,9 @@ Serial Settings i would like to try later
             "parity": serial.PARITY_NONE,
             "stopbits": serial.STOPBITS_ONE,
         }```
+
+
+
+
+
+[1]: images/NetDevops.jpg
