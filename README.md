@@ -1,8 +1,8 @@
 
 
 ---
-![Netmiko Stuff][1]
-
+[1]
+---
 
 
 
@@ -131,7 +131,7 @@ Serial Settings i would like to try later
             "stopbits": serial.STOPBITS_ONE,
         }
 
-
+```
 
 ---
 
