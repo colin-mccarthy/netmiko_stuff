@@ -12,3 +12,5 @@ device1 = {
 
 net_connect = ConnectHandler(**device1)
 print(net_connect.find_prompt())
+
+net_connect.disconnect()
