@@ -1,5 +1,6 @@
 from netmiko import ConnectHandler
 from getpass import getpass
+from pprint import pprint
 
 device1 = {
     "host": '192.168.161.15', 
@@ -14,6 +15,6 @@ net_connect = ConnectHandler(**device1)
 print(net_connect.find_prompt())
 
 output = net_connect.send_command("show ip interface brief", use_textfsm=True)
-print(output)
+pprint(output)
 
 net_connect.disconnect()
