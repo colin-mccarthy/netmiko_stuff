@@ -1,13 +1,19 @@
+Netmiko Stuff!
 
+Python 3.7.3
 
 ---
 ![](images/NetDevops.png)
 ---
 
 
-
+start my venv
 
 source netmiko/bin/activate
+
+---
+
+
 
 pip install netmiko
 
@@ -133,6 +139,4 @@ Serial Settings i would like to try later
 
 ```
 
----
 
-[1]: images/NetDevops.jpg
