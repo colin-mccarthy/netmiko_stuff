@@ -126,7 +126,7 @@ vyos
 ```
 
 
-Serial Settings i would like to try later
+Serial Settings I would like to try later
 -----------------------------------------
 
 ```        self.serial_settings = {
