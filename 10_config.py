@@ -13,7 +13,7 @@ device1 = {
 net_connect = ConnectHandler(**device1)
 print(net_connect.find_prompt())
 
-output = net_connect.send_command("show ip int brief")
+output = net_connect.send_command("show ip interface brief")
 print(output)
 
 net_connect.disconnect()
