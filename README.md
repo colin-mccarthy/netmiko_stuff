@@ -1,7 +1,7 @@
 
 
 ---
-![Netmiko stuff] (images/NetDevops.jpg)
+![](images/NetDevops.png)
 ---
 
 
