@@ -2,6 +2,7 @@ from netmiko import ConnectHandler
 from getpass import getpass
 from pprint import pprint
 
+
 device1 = {
     "host": '192.168.161.15', 
     "username": 'pi', 
