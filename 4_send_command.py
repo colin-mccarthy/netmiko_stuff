@@ -15,3 +15,5 @@ print(net_connect.find_prompt())
 
 output = net_connect.send_command("show ip int brief")
 print(output)
+
+net_connect.disconnect()
