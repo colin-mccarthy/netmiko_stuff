@@ -129,10 +129,10 @@ Serial Settings i would like to try later
             "bytesize": serial.EIGHTBITS,
             "parity": serial.PARITY_NONE,
             "stopbits": serial.STOPBITS_ONE,
-        }```
+        }
 
 
 
-
+---
 
 [1]: images/NetDevops.jpg
